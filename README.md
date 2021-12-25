@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Jason  
+- 👀 I’m interested in Gaming and Programming
+- 🌱 I’m currently learning Java C# and C++
